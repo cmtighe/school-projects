@@ -1,0 +1,11 @@
+Each line below contains username, salt and hashed password.
+james39_uin, 8m-yzwsEkN, d54a03a3524a338881d295f1f761bfdb347bd7b0
+linda39_uin, fSU0yYVnaf, 4a83f0e667b890bbef9526bd9f50e86800b589ad
+sofia39_uin, PjK5CBPJcy, 8424cba6aa750ba7c3ba087745373f7a20ba590d
+santiago39_uin, _ZLwUZNdek, 26f074e6d89cd7f1427c3b0e5afcb917ad02f14d
+isabella39_uin, ivMpkxyiNJ, d6c3f57b42429ef436b7f08f8fd7fa56a9440b61
+diego39_uin, 6wbA-w42rM, df54395aa541eb5cda264e2946eee46158152923
+robert39_uin, 9tIlyFgYt0, 86a80002c80e3b3e531f58741507831b5dbdbd52
+mary39_uin, vUFOKmXEMM, cc57de53852823aa6bc49028b393e31ac84fb001
+patricia39_uin, nJjGiXjNCJ, bffb2286de2ce48cc0026a5150763413f46d1ad6
+daniela39_uin, o9mBZzXzgQ, 645f458f2f0e68805096478a4587802981300d18
